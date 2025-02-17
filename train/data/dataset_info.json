@@ -11,7 +11,7 @@
       "prompt": "instruction",
       "query": "input",
       "response": "output",
-      "system": "system",
+      "system": "system"
     }
   },
   "alpaca_zh_demo": {
