@@ -5,7 +5,7 @@
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
-  "file_name": {
+  "limo": {
     "file_name": "limo.json",
     "columns": {
       "prompt": "instruction",
